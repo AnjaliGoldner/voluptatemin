@@ -1,0 +1,27 @@
+{
+  "name": "voluptatemin",
+  "version": "1.0.0",
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "devDependencies": {
+    "eslint-config-custom": "*",
+    "prettier": "latest",
+    "turbo": "latest"
+  },
+  "engines": {
+    "npm": ">=7.0.0",
+    "node": ">=14.0.0"
+  },
+  "dependencies": {},
+  "packageManager": "yarn@1.22.17",
+  "author": "ClintLeuschke",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AnjaliGoldner/voluptatemin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AnjaliGoldner/voluptatemin.git/issues"
+  }
+}
